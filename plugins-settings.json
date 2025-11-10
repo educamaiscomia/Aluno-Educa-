@@ -35,13 +35,6 @@
             "realtimeTables": {}
         }
     },
-    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
-        "id": "718a7b34-35e8-43a5-ae28-c1f635a99e6d",
-        "name": "NPM",
-        "designId": "7419556a-cba2-4cd7-8513-50bbc8be2d42",
-        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
-        "publicData": {}
-    },
     "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
         "id": "03d300a8-b521-409f-9264-2f67e51458f6",
         "name": "Supabase Auth",
@@ -62,6 +55,13 @@
             "afterForbiddenPageId": "0f446227-0fc0-4804-ad4d-ad12bbeaf6ff",
             "afterNotSignInPageId": "0f446227-0fc0-4804-ad4d-ad12bbeaf6ff"
         }
+    },
+    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
+        "id": "718a7b34-35e8-43a5-ae28-c1f635a99e6d",
+        "name": "NPM",
+        "designId": "7419556a-cba2-4cd7-8513-50bbc8be2d42",
+        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
+        "publicData": {}
     },
     "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
         "id": "bd5fb4f9-bad6-4529-a9f6-c12f4a09f282",
